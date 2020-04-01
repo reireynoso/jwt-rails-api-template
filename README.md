@@ -1,24 +1,10 @@
-# README
+# SETUP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Rails API template with bcrypt and JWT implemented.
+Make sure to run:
 
-Things you may want to cover:
+* `rails db:create && rails db:migrate`
 
-* Ruby version
+* `bundle install`
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* `rails db:seeds`
