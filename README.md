@@ -10,4 +10,4 @@ Make sure to run:
 
 * `bundle install`
 
-* `rails db:seeds`
+* `rails db:seed`
